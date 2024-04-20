@@ -1,0 +1,11 @@
+html, body {
+    background-color: #111;
+    font: 20pt Verdana;
+    color: white;
+    text-shadow: #444 1px 1px;
+    user-select: none;
+}
+
+a {
+    color: #0BF;
+}

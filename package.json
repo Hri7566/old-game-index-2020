@@ -1,0 +1,19 @@
+{
+  "name": "game",
+  "version": "0.0.1",
+  "description": "html game :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hri7566",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.4",
+    "pug": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
